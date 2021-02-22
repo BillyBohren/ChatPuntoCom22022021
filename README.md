@@ -1,6 +1,8 @@
 # Chat PuntoCom
 
-_This app must have _
+_This app have  funtionalities like Login user to the system, using JWT for security and protect routes with a token, register user, and persons management _
+
+_Still pendient the module to send messages between users already created (On Construction) _
 
 
 
@@ -73,14 +75,14 @@ _10. Comment the code that you have commented previusly on steps 6 and 7 _
 
 _   *This is for the structure and data on the database dont disapear if you like to run the project again _
 
-_11. In the database, create a register in the table Persona (to test edit, delete a register) _
+_11. In the database, create a register in the table Persona (to test edit, delete a register)_
 
 
-_12. Open VSCode or any other editor _
+_12. Open VSCode or any other editor_
 
-_13. Open the folder of the FrontEnd: /FRONT/ _
+_13. Open the folder of the FrontEnd: /FRONT/_
 
-_14. Open cmd console in the folder: /FRONT/ as main route _
+_14. Open cmd console in the folder: /FRONT/ as main route_
 
 _15. Then run the comand:_
 
@@ -88,7 +90,18 @@ _15. Then run the comand:_
         npm install
 ```
 
-_   *It will be install the node modules to run angular project _
+_*It will be install the node modules to run angular project_
+
+_16. Once you have installed node_modules, run the command:_
+
+```
+        npx ng server -o
+```
+_   *Angular App is up on localhost, port 4200_
+
+_17. Now you can test, create user, login, and edit persons_
+
+
 
 ## Built With 🛠️
 
