@@ -7,9 +7,13 @@ _This app must have _
 ### Pre-requeriments 📋
 
 _Have Installed Postgres Database_
+
 _Have Installed InteliJ Idea_
+
 _Have Installed Visual Studio Code or any other_
+
 _Have Installed NodeJS_
+
 _Have Installed JAVA 1.8 and correctly configured_
 
 ### Installation 🔧
