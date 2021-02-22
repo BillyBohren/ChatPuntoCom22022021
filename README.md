@@ -1,8 +1,8 @@
 # Chat PuntoCom
 
-_This app have  funtionalities like Login user to the system, using JWT for security and protect routes with a token, register user, and persons management _
+_This app have  funtionalities like Login user to the system, using JWT for security and protect routes with a token, register user, and persons management_
 
-_Still pendient the module to send messages between users already created (On Construction) _
+_Still pendient the module to send messages between users already created (On Construction)_
 
 
 
@@ -71,7 +71,7 @@ _8. Compile and run the project_
 
 _9. Comment the code that you have commented previusly on steps 5 and 6_
 
-_   *This is for the structure and data on the database dont disapear if you like to run the project again _
+_This is for the structure and data on the database dont disapear if you like to run the project again_
 
 _10. In the database, create a register in the table Persona (to test edit, delete a register) or you can create one on the typing the route http://localhost:4200/nueva_ once you have logged on, it will be appear the persona register form to test it.
 
