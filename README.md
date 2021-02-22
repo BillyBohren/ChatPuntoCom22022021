@@ -75,7 +75,7 @@ _10. Comment the code that you have commented previusly on steps 6 and 7 _
 
 _   *This is for the structure and data on the database dont disapear if you like to run the project again _
 
-_11. In the database, create a register in the table Persona (to test edit, delete a register)_
+_11. In the database, create a register in the table Persona (to test edit, delete a register) or you can create one on the typing the route http://localhost:4200/nueva_ once you have logged on, it will be appear the persona register form to test it.
 
 
 _12. Open VSCode or any other editor_
