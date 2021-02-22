@@ -105,11 +105,12 @@ _17. Now you can test, create user, login, and edit persons_
 
 ## Built With 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Angular](https://angular.io/) - FrontEnd Framework
+* [Spring](https://spring.io/) - Backend Framework
+* [Maven](https://maven.apache.org/) - Dependency Manager
+* [JWT](https://jwt.io/) - Used for login users and security
+* [Bootstrap](https://getbootstrap.com/) - CSS Styling
+* [JQuery](https://jquery.com/) - Installed with bootstrap
 
 
 
