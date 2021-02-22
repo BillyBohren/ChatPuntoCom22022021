@@ -24,13 +24,13 @@ _2. Clone the project into that folder_
 
 _3. Open PGAdmind, and create a Database called chat-db_
 
-_4. Now, open IntelliJ IDEA IDE, and select Import Project, then select the folder 'BACK/chat', then continue with the process of importing the project with intelliJ. _
+_4. Now, open IntelliJ IDEA IDE, and select Import Project, then select the folder 'BACK/chat', then continue with the process of importing the project with intelliJ_
 
-_5. Now, open IntelliJ IDEA IDE, and select Import Project, then select the folder 'BACK/chat', then continue with the process of importing the project with intelliJ. _
+_5. Now, open IntelliJ IDEA IDE, and select Import Project, then select the folder 'BACK/chat', then continue with the process of importing the project with intelliJ_
 
-_   *Make sure that Maven have been selected as dependency manager _
+_   *Make sure that Maven have been selected as dependency manager_
 
-_6. Once imported is complete, you have to navigate to the file: "\BACK\chat\src\main\resources\application.properties" and uncomment those lines: _
+_6. Once imported is complete, you have to navigate to the file: "\BACK\chat\src\main\resources\application.properties" and uncomment those lines:_
 
 ```
 #spring.jpa.generate-ddl=true
@@ -45,7 +45,7 @@ spring.jpa.hibernate.ddl-auto=create
 spring.jpa.properties.hibernate.jdbc.lob.non_contextual_creation=true
 ```
 
-_7. Now navigate to the file: "\BACK\chat\src\main\java\com\puntocom\chat\security\util\CreateRoles.java" and uncomment those lines: _
+_7. Now navigate to the file: "\BACK\chat\src\main\java\com\puntocom\chat\security\util\CreateRoles.java" and uncomment those lines:_
 
 
 ```
@@ -65,13 +65,30 @@ _It will be like this_
 ```
 _   *This allow us to create tables on the first run, and load role data for role table_
 
+_8. Configure the conection parameters with postGres, username, dbname in the archive: "\BACK\chat\src\main\resources\application.properties" _
 
+_9. Compile and run the project _
 
-_8. Compile and run the project _
-
-_9. Comment the code that you have commented previusly on steps 6 and 7 _
+_10. Comment the code that you have commented previusly on steps 6 and 7 _
 
 _   *This is for the structure and data on the database dont disapear if you like to run the project again _
+
+_11. In the database, create a register in the table Persona (to test edit, delete a register) _
+
+
+_12. Open VSCode or any other editor _
+
+_13. Open the folder of the FrontEnd: /FRONT/ _
+
+_14. Open cmd console in the folder: /FRONT/ as main route _
+
+_15. Then run the comand:_
+
+```
+        npm install
+```
+
+_   *It will be install the node modules to run angular project _
 
 ## Built With 🛠️
 
