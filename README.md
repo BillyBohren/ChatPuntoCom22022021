@@ -112,3 +112,9 @@ _16. Now you can test, create user, login, and edit persons_
 
 
 
+
+## Author ✒️
+
+_Luis G. Bohren H_
+
+_Thanks to diferents persons, that upload info to learn Angular, like videos, exercises, examples and other util stuff_
